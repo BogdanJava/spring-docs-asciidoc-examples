@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Content-Length: 105
+
+{"userId":"683fee95-3f93-41b3-bbbe-b13ed92c9e51","name":"Bogdan","surname":"Shishkin","description":null}
+----

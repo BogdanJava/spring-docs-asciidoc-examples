@@ -1,0 +1,13 @@
+== Rest convention
+== Endpoints
+=== User
+==== Get user by id
+===== curl example
+include::generated/user-controller-test/test-get-user-by-id/curl-request.adoc[]
+
+===== HTTP Request
+include::generated/user-controller-test/test-get-user-by-id/http-request.adoc[]
+
+===== HTTP Response
+====== Success HTTP responses
+include::generated/user-controller-test/test-get-user-by-id/http-response.adoc[]
